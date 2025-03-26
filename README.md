@@ -40,4 +40,4 @@ I'm started my journey in IT two years ago. I have taken and am taking courses o
 <div width="100%" align="center"><a href="https://github.com/Ivanchic/cars" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivanchic&repo=cars&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ivanchic/rent-car-next.js" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivanchic&repo=rent-car-next.js&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-https://github-profile-trophy.vercel.app/Ivanchik=ryo-ma&theme=matrix
+https://github-profile-trophy.vercel.app/Ivanchic=ryo-ma&theme=matrix
