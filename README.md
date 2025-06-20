@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Markup Developer , Junior-JavaScript Developer
 ----------------------------------------------
 
-I'm started my journey in IT two years ago. I have taken and am taking courses on front-end development on YouTube and udemy. I completed the course by Vadim Prokopchuk. I work in management positions in restaurants.
+I'm started my journey in IT three years ago. I have taken and am taking courses on front-end development on YouTube and Udemy. I completed the course by Vadim Prokopchuk. I work in management positions in restaurants.
 
 * 🌍  I'm based in Batumi , Georgia
 * 🖥️  See my portfolio at [MyPortfolio](http://ivanchic.github.io/ivanpetrov.github.io/)
 * ✉️  You can contact me at [iradolgaya@gmail.com](mailto:iradolgaya@gmail.com)
-* 🚀  I'm currently working on [MyCarsRent](https://fullstack-real-chat-app-sjkh-hdocok3yp-ivanchics-projects.vercel.app/)
+* 🚀  I'm currently working on [Сhat Online](https://fullstack-real-chat-app-sjkh-hdocok3yp-ivanchics-projects.vercel.app/)
 * 🧠  I'm learning Angular , Vue;
 * 🤝  I'm open to collaborating on interesting projects for me;
 
