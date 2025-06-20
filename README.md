@@ -9,7 +9,7 @@ I'm started my journey in IT two years ago. I have taken and am taking courses o
 * 🌍  I'm based in Batumi , Georgia
 * 🖥️  See my portfolio at [MyPortfolio](http://ivanchic.github.io/ivanpetrov.github.io/)
 * ✉️  You can contact me at [iradolgaya@gmail.com](mailto:iradolgaya@gmail.com)
-* 🚀  I'm currently working on [MyCarsRent](http://ivanchic.github.io/cars/)
+* 🚀  I'm currently working on [MyCarsRent](https://fullstack-real-chat-app-sjkh-hdocok3yp-ivanchics-projects.vercel.app/)
 * 🧠  I'm learning Angular , Vue;
 * 🤝  I'm open to collaborating on interesting projects for me;
 
