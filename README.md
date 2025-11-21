@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivan Petrov
 ===================================================================================================================================
 
-Markup Developer , Junior-JavaScript Developer
+FullStack Developer ( React.js + Node.js) ,  
 ----------------------------------------------
 
 I'm started my journey in IT three years ago. I have taken and am taking courses on front-end development on YouTube and Udemy. I completed the course by Vadim Prokopchuk. I work in management positions in restaurants.
