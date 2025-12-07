@@ -8,7 +8,7 @@ I'm started my journey in IT three years ago. I have taken and am taking courses
 
 * 🌍  I'm based in Batumi , Georgia
 * ✉️  You can contact me at [iradolgaya@gmail.com](mailto:iradolgaya@gmail.com)
-* 🚀  I'm currently working on [Сhat Online](https://fullstack-real-chat-app-sjkh-hdocok3yp-ivanchics-projects.vercel.app/)
+* 🚀  I'm currently working on [E-commerce]([https://fullstack-real-chat-app-sjkh-hdocok3yp-ivanchics-projects.vercel.app/](https://commerce-n5it.vercel.app/))
 * 🧠  I'm learning Angular , Vue;
 * 🤝  I'm open to collaborating on interesting projects for me;
 
